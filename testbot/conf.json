@@ -1,0 +1,664 @@
+{
+  "apps": [
+    {
+      "id": "A1",
+      "name": "QQ Mail",
+      "package": "com.tencent.androidqqmail",
+      "launch-activity": "com.tencent.qqmail.launcher.desktop.LauncherActivity"
+    },
+    {
+      "id": "A2",
+      "name": "FairEmail",
+      "package": "eu.faircode.email",
+      "launch-activity": ".ActivityMain"
+    },
+    {
+      "id": "A3",
+      "name": "Petal Mail",
+      "package": "com.huawei.petalmail",
+      "launch-activity": "com.huawei.mail.core.welcome.WelcomeActivity"
+    },
+    {
+      "id": "A4",
+      "name": "Outlook",
+      "package": "com.microsoft.office.outlook",
+      "launch-activity": ".ui.miit.MiitLauncherActivity"
+    },
+    {
+      "id": "A5",
+      "name": "K-9 Mail",
+      "package": "com.fsck.k9",
+      "launch-activity": ".activity.MessageList"
+    },
+    {
+      "id": "A6",
+      "name": "Apple Music",
+      "package": "com.apple.android.music",
+      "launch-activity": ".onboarding.activities.SplashActivity"
+    },
+    {
+      "id": "A7",
+      "name": "FiiO Music",
+      "package": "com.fiio.music",
+      "launch-activity": ".activity.SplashActivity"
+    },
+    {
+      "id": "A8",
+      "name": "Music Player",
+      "package": "musicplayer.musicapps.music.mp3player",
+      "launch-activity": ".activities.SplashActivity"
+    },
+    {
+      "id": "A9",
+      "name": "Muzio Player",
+      "package": "com.shaiban.audioplayer.mplayer",
+      "launch-activity": ".common.splash.NavigatingActivity"
+    },
+    {
+      "id": "A10",
+      "name": "Offline Music Player",
+      "package": "mymusic.offlinemusicplayer.mp3player.playmusic",
+      "launch-activity": "better.musicplayer.activities.SplashActivity"
+    },
+    {
+      "id": "A11",
+      "name": "Daily Notes",
+      "package": "com.an.room",
+      "launch-activity": ".ui.activity.NotesListActivity"
+    },
+    {
+      "id": "A12",
+      "name": "ToDoApp",
+      "package": "com.example.workspace.todoapp",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A13",
+      "name": "Mind Notes",
+      "package": "mindnotes.note.notepad.notebook.memo.stickynotes",
+      "launch-activity": "notes.notebook.android.mynotes.ui.activities.SplashActivity"
+    },
+    {
+      "id": "A14",
+      "name": "Notes",
+      "package": "com.ogden.memo",
+      "launch-activity": ".ui.MemoMain"
+    },
+    {
+      "id": "A15",
+      "name": "Notepad",
+      "package": "ru.andrey.notepad",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A16",
+      "name": "Camera",
+      "package": "com.android.camera2",
+      "launch-activity": "com.android.camera.CameraLauncher"
+    },
+    {
+      "id": "A17",
+      "name": "Camera Magix",
+      "package": "com.magix.camera_mx",
+      "launch-activity": "com.magix.android.cameramx.cameragui.NewCameraActivity"
+    },
+    {
+      "id": "A18",
+      "name": "Open Camera",
+      "package": "net.sourceforge.opencamera",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A19",
+      "name": "Camera FV-5 Lite",
+      "package": "com.flavionet.android.camera.lite",
+      "launch-activity": ".Main"
+    },
+    {
+      "id": "A20",
+      "name": "Candy Camera",
+      "package": "com.joeware.android.gpulumera",
+      "launch-activity": ".camera.ActivityCamera"
+    },
+    {
+      "id": "A21",
+      "name": "Microsoft Translator",
+      "package": "com.microsoft.translator",
+      "launch-activity": ".activity.SplashActivity"
+    },
+    {
+      "id": "A22",
+      "name": "Google Translate",
+      "package": "com.google.android.apps.translate",
+      "launch-activity": ".TranslateActivity"
+    },
+    {
+      "id": "A23",
+      "name": "DeepL Translator",
+      "package": "com.deepl.mobiletranslator",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A24",
+      "name": "Yandex Translate",
+      "package": "com.vladimirkondenko.yamblz.release",
+      "launch-activity": "com.vladimirkondenko.yamblz.screens.main.MainActivity"
+    },
+    {
+      "id": "A25",
+      "name": "iTranslate",
+      "package": "at.nk.tools.iTranslate",
+      "launch-activity": "com.sonicomobile.itranslate.app.activities.NavigationActivity"
+    },
+    {
+      "id": "A26",
+      "name": "Wide Camera",
+      "package": "com.lerp.pano",
+      "launch-activity": "com.lerp.panocamera.ui.MainActivity"
+    },
+    {
+      "id": "A27",
+      "name": "Temu",
+      "package": "com.einnovation.temu",
+      "launch-activity": "com.baogong.splash.activity.MainFrameActivity"
+    },
+    {
+      "id": "A28",
+      "name": "Warmart",
+      "package": "com.walmart.android",
+      "launch-activity": "com.walmart.glass.integration.splash.SplashActivity"
+    },
+    {
+      "id": "A29",
+      "name": "Shopee",
+      "package": "com.shopee.ph",
+      "launch-activity": "com.shopee.app.ui.home.HomeActivity_"
+    },
+    {
+      "id": "A30",
+      "name": "Shein",
+      "package": "com.zzkko",
+      "launch-activity": "com.shein.welcome.WelcomeActivity"
+    },
+    {
+      "id": "A31",
+      "name": "Email",
+      "package": "com.android.email",
+      "launch-activity": ".activity.Welcome"
+    },
+    {
+      "id": "A32",
+      "name": "yetCalc",
+      "package": "yetzio.yetcalc",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A33",
+      "name": "Calculator-1",
+      "package": "com.sadellie.unitto",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A34",
+      "name": "Calculator-2",
+      "package": "com.android.calculator2",
+      "launch-activity": "com.huawei.calculator.Calculator"
+    },
+    {
+      "id": "A35",
+      "name": "Orange Calculator",
+      "package": "com.orangestudio.calculator",
+      "launch-activity": ".ui.activity.SplashActivity"
+    },
+    {
+      "id": "A36",
+      "name": "MingCalc",
+      "package": "com.differ.xiaoming",
+      "launch-activity": ".ui.activity.StartActivity"
+    },
+    {
+      "id": "A37",
+      "name": "Calculator-3",
+      "package": "com.juzipie.supercalculator",
+      "launch-activity": ".ui.activity.SplashActivity"
+    },
+    {
+      "id": "A38",
+      "name": "Calculator-inator",
+      "package": "com.inator.calculator",
+      "launch-activity": ".activities.MainActivity"
+    },
+    {
+      "id": "A39",
+      "name": "Omni Notes",
+      "package": "it.feio.android.omninotes",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A40",
+      "name": "English-Chinese translation",
+      "package": "com.hhll.translatecnen",
+      "launch-activity": ".activity.StartActivity"
+    },
+    {
+      "id": "A41",
+      "name": "Privacy Friendly Weather",
+      "package": "org.secuso.privacyfriendlyweather",
+      "launch-activity": ".activities.SplashActivity"
+    },
+    {
+      "id": "A42",
+      "name": "ZARA",
+      "package": "com.inditex.zara",
+      "launch-activity": ".MainActivityDefaultIcon"
+    },
+    {
+      "id": "A43",
+      "name": "FARFETCH",
+      "package": "com.farfetch.farfetchshop",
+      "launch-activity": ".DefaultAlias"
+    },
+    {
+      "id": "A44",
+      "name": "Calculator-4",
+      "package": "com.scottmangiapane.calculatorv2",
+      "launch-activity": ".MainActivity-Blue"
+    },
+    {
+      "id": "A45",
+      "name": "Calculator-5",
+      "package": "net.ludeke.calculator",
+      "launch-activity": "com.android.calculator2.Calculator"
+    },
+    {
+      "id": "A46",
+      "name": "MultiAlarm",
+      "package": "com.anshmidt.multialarm",
+      "launch-activity": ".activities.MainActivity"
+    },
+    {
+      "id": "A47",
+      "name": "Shake Alarm Clock",
+      "package": "in.basulabs.shakealarmclock",
+      "launch-activity": ".frontend.Activity_AlarmsList"
+    },
+    {
+      "id": "A48",
+      "name": "Chrono",
+      "package": "com.vicolo.chrono",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A49",
+      "name": "NFC Alarm Clock",
+      "package": "com.nfcalarmclock",
+      "launch-activity": ".main.NacMainActivity"
+    },
+    {
+      "id": "A50",
+      "name": "Alarms",
+      "package": "com.better.alarm",
+      "launch-activity": ".presenter.AlarmsListActivity"
+    },
+    {
+      "id": "A51",
+      "name": "Clock",
+      "package": "com.android.deskclock",
+      "launch-activity": ".AlarmsMainActivity"
+    },
+    {
+      "id": "A52",
+      "name": "Simply Translate",
+      "package": "com.simplytranslate_mobile",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A53",
+      "name": "Weather",
+      "package": "com.huawei.android.totemweather",
+      "launch-activity": ".WeatherHome"
+    },
+    {
+      "id": "A54",
+      "name": "MyTranslator",
+      "package": "com.gyr.translator",
+      "launch-activity": ".activity.MainActivity"
+    },
+    {
+      "id": "A55",
+      "name": "Pixel Camera",
+      "package": "com.google.android.GoogleCamera",
+      "launch-activity": "com.android.camera.CameraLauncher"
+    },
+    {
+      "id": "A56",
+      "name": "HUAWEI Camera",
+      "package": "com.huawei.camera",
+      "launch-activity": "com.huawei.camera"
+    },
+    {
+      "id": "A57",
+      "name": "PROMPT.One translator",
+      "package": "com.promt.hwcn",
+      "launch-activity": "com.promt.pmtappfree.HwTRRUActivity"
+    },
+    {
+      "id": "A58",
+      "name": "Translate You",
+      "package": "com.bnyro.translate",
+      "launch-activity": ".ui.MainActivity"
+    },
+    {
+      "id": "A59",
+      "name": "Lentil Translator",
+      "package": "dev.atajan.lingva_android",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A60",
+      "name": "World Weather",
+      "package": "com.haringeymobile.ukweather",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A61",
+      "name": "Rain",
+      "package": "com.yoshi.rain",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A62",
+      "name": "OSS Weather",
+      "package": "com.akylas.weather",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A63",
+      "name": "HD-Camera",
+      "package": "tools.photo.hd.camera",
+      "launch-activity": "com.android.camera.LaunchActivity"
+    },
+    {
+      "id": "A64",
+      "name": "Good Weather",
+      "package": "org.asdtm.goodweather",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A65",
+      "name": "Weather Forecast",
+      "package": "com.aniketjain.weatherapp",
+      "launch-activity": ".SplashScreen"
+    },
+    {
+      "id": "A66",
+      "name": "Camera for Android",
+      "package": "photo.camera.hdcameras",
+      "launch-activity": "com.android.camera.H5View"
+    },
+    {
+      "id": "A67",
+      "name": "RadarWeather",
+      "package": "org.woheller69.weather",
+      "launch-activity": ".activities.SplashActivity"
+    },
+    {
+      "id": "A68",
+      "name": "Open Weather",
+      "package": "uk.co.openweather",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A69",
+      "name": "BBC Weather",
+      "package": "bbc.mobile.weather",
+      "launch-activity": ".feature.app.ui.MsiActivity"
+    },
+    {
+      "id": "A70",
+      "name": "Yahoo Weather",
+      "package": "com.yahoo.mobile.client.android.weather",
+      "launch-activity": ".ui.WeatherMainActivity"
+    },
+    {
+      "id": "A71",
+      "name": "Calculator-6",
+      "package": "com.google.android.calculator",
+      "launch-activity": "com.android.calculator2.Calculator"
+    },
+    {
+      "id": "A72",
+      "name": "HUAWEI Notepad",
+      "package": "com.example.android.notepad",
+      "launch-activity": ".NotePadActivity"
+    },
+    {
+      "id": "A73",
+      "name": "Calculator-8",
+      "package": "com.miui.calculator",
+      "launch-activity": ".cal.CalculatorActivity"
+    },
+    {
+      "id": "A74",
+      "name": "ClevCalc",
+      "package": "com.dencreak.dlcalculator",
+      "launch-activity": ".DLCalculatorActivity"
+    },
+    {
+      "id": "A75",
+      "name": "Mobi Calculator",
+      "package": "my.android.calc",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A76",
+      "name": "Hi Translate",
+      "package": "com.zaz.translate",
+      "launch-activity": ".WelcomeActivity"
+    },
+    {
+      "id": "A77",
+      "name": "Language Translator iGlot",
+      "package": "ingles.espanol",
+      "launch-activity": ".InitialActivity"
+    },
+    {
+      "id": "A78",
+      "name": "Alarm-Clock-1",
+      "package": "com.macropinch.axe",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A79",
+      "name": "Alarm-Clock-2",
+      "package": "com.hodoz.alarmclock",
+      "launch-activity": ".activity.MainActivity"
+    },
+    {
+      "id": "A80",
+      "name": "Alarm-Clock-3",
+      "package": "hdesign.theclock",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A81",
+      "name": "Wakey Alarm Clock",
+      "package": "com.sofaking.moonworshipper",
+      "launch-activity": ".ui.main.MainActivity"
+    },
+    {
+      "id": "A82",
+      "name": "Notein",
+      "package": "notes.notepad.checklist.calendar.todolist.notebook",
+      "launch-activity": ".page.WelcomeActivity"
+    },
+    {
+      "id": "A83",
+      "name": "ColorNote",
+      "package": "com.socialnmobile.dictapps.notepad.color.note",
+      "launch-activity": "com.socialnmobile.colornote.activity.Main"
+    },
+    {
+      "id": "A84",
+      "name": "Qt Notes",
+      "package": "com.lautaro.qtnotes",
+      "launch-activity": ".SplashActivity"
+    },
+    {
+      "id": "A85",
+      "name": "UpNote",
+      "package": "com.getupnote.android",
+      "launch-activity": ".ui.home.MainActivity"
+    },
+    {
+      "id": "A86",
+      "name": "Note To Self",
+      "package": "com.makenotetoself",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A87",
+      "name": "Note",
+      "package": "com.eawedat.note",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A88",
+      "name": "Bee Notes",
+      "package": "xyz.hanks.note",
+      "launch-activity": ".ui.activity.MainActivity"
+    },
+    {
+      "id": "A89",
+      "name": "Minimal Todo",
+      "package": "com.rubenroy.minimaltodo",
+      "launch-activity": ".MainActivity"
+    },
+    {
+      "id": "A90",
+      "name": "Clear List",
+      "package": "douzifly.list",
+      "launch-activity": ".ui.home.MainActivity"
+    },
+    {
+      "id": "A91",
+      "name": "Lark Player",
+      "package": "com.dywx.larkplayer",
+      "launch-activity": ".main.MainActivity"
+    },
+    {
+      "id": "A92",
+      "name": "Shazam",
+      "package": "com.shazam.android",
+      "launch-activity": ".activities.SplashActivity"
+    },
+    {
+      "id": "A93",
+      "name": "Music-Player-1",
+      "package": "com.search.music.mp3.musicplayer",
+      "launch-activity": "com.search.music.ui.main.MainAct"
+    },
+    {
+      "id": "A94",
+      "name": "Music-Player-2",
+      "package": "com.vmons.mediaplayer.music",
+      "launch-activity": ".activity.SplashActivity"
+    },
+    {
+      "id": "A95",
+      "name": "Music-Player-3",
+      "package": "media.audioplayer.musicplayer",
+      "launch-activity": "com.ijoysoft.music.activity.WelcomeActivity"
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "S1",
+      "name": "send email",
+      "description": "send an email to friend",
+      "extra-info": {
+        "friend's email": "example@example.com",
+        "email subject": "",
+        "email content": ""
+      }
+    },
+    {
+      "id": "S2",
+      "name": "play music",
+      "description": "search and play a song",
+      "extra-info": {
+        "target song": "Turkish March",
+        "requirement": "not finished util the song being played"
+      }
+    },
+    {
+      "id": "S3",
+      "name": "take note",
+      "description": "write a note and save it",
+      "extra-info": {
+        "tomorrow's todo": "see a dentist"
+      }
+    },
+    {
+      "id": "S4",
+      "name": "take photo",
+      "description": "take a photo",
+      "extra-info": {}
+    },
+    {
+      "id": "S5",
+      "name": "translation",
+      "description": "input a sentence and translate it",
+      "extra-info": {
+        "source-language": "English",
+        "target-language": "Chinese",
+        "sentence to be translated": "\"Remote work saves time and money on transportation.\""
+      }
+    },
+    {
+      "id": "S6",
+      "name": "shopping",
+      "description": "add something to shopping cart",
+      "extra-info": {
+        "shopping target": "a men T-shirt"
+      }
+    },
+    {
+      "id": "S7",
+      "name": "login",
+      "description": "login to the account",
+      "extra-info": {
+        "email address": "example@example.com",
+        "password": "example-password",
+        "google account": "example@gmail.com",
+        "requirement": "not finished util successfully signed in"
+      }
+    },
+    {
+      "id": "S8",
+      "name": "calculation",
+      "description": "calculate 8+5",
+      "extra-info": {
+        "rule": "the calculator can be operated only by touching its buttons"
+      }
+    },
+    {
+      "id": "S9",
+      "name": "weather query",
+      "description": "query the weather of a new city",
+      "extra-info": {
+        "target-city-name": "Beijing",
+        "longitude": 116.40,
+        "latitude": 39.91
+      }
+    },
+    {
+      "id": "S10",
+      "name": "set alarm clock",
+      "description": "create a new alarm clock with default settings",
+      "extra-info": {
+        "rule": "input action is forbidden"
+      }
+    }
+  ]
+}
